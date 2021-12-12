@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tienda de Mascotas</string>
+    <string name="itemProducto">Productos</string>
+    <string name="itemServicio">Servicios</string>
+    <string name="itemSucursales">Sucursales</string>
+    <string name="shampoo">Shampoo</string>
+    <string name="Talquitos">Talquitos</string>
+    <string name="locion">Locion</string>
+    <string name="cremaDental">Crema Dental</string>
+    <string name="textoComboAseo">Llevate los mejores productos de aseo para tu mascota</string>
+    <string name="agregarCarrito">Agregar al Carrito</string>
+    <string name="Concentrado_perro">Concentrado  para perro</string>
+    <string name="premios_para_perro">Premios para perro</string>
+    <string name="textoComboComidaPerro">Llevate los mejores productos de comida para tu perro</string>
+    <string name="verCarrito">Ver Carrito</string>
+    <string name="destacados">Combos Destacados</string>
+    <string name="textItem1ComboLavado">Lavado, Cepillado y Secado</string>
+    <string name="textItem2ComboLavado">Corte de Pelo al gusto</string>
+    <string name="DescriptionComboLavado">Nos encargamos de recoger a tu perro bañarlo, cepillarlo y cortar el pelo conforme a tus especificaciones, dejanos el lavado de tu peludo</string>
+    <string name="TextNameForm">"Nombre: "</string>
+    <string name="textTitleFormMain">Suscribete a nuestro NewsLetter</string>
+    <string name="textSendButton">Enviar</string>
+</resources>
