@@ -1,4 +1,4 @@
-##### Wath you will find? o ###
+##### Wath you will find?###
 In this repo you will find the whole project of the Mintic's challenges, the first commit is the challenge 1,
 the second commit is the challenge 2 and so on so forth.
 
